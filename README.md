@@ -1,4 +1,4 @@
-# US Cocci Estimates
+# U.S. Cocci Estimates Repository
 
 This repository accompanies the manuscript 'Coccidioidomycosis incidence across reporting and non-reporting U.S. states: an ensemble modeling study'
 
